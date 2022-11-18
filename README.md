@@ -14,7 +14,7 @@ Dry running GPT-2
 * look out for videos and tutorial if any before jumping into the code 
 
 Data prep GPT-2
-* make a csv with X candidates for the context
+* make a csv with X candidates for the context using counsel-chat data
 * Loading the json or csv to the loader
 
 Fine tuning GPT-2 
